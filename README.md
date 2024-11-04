@@ -1,7 +1,7 @@
-<div qilin="center">
+<div align="center">
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1ANGJustinl%F0%9F%8C%B1+!)](https://www.angforever.top)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1Cum_here_Baby~%F0%9F%8C%B1+!)](https://www.angforever.top)
 
 
 ### 🥛|**qilin**|🥛HERE
@@ -9,8 +9,8 @@
 
 
 
-[![Email](https://img.shields.io/badge/Email-3221565903@qq.com.top-6A5ACD?style=flat-square&logoColor=fff)](mailto:qilinxie05@gmail.com)
-[![QQ](https://img.shields.io/badge/QQ-77139032-98FB98?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
+[![Email](https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=flat-square&logoColor=fff)](mailto:qilinxie05@gmail.com)
+[![QQ](https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
 
 
 
@@ -23,12 +23,11 @@
 
 ### 🎨USING
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
 
 
 
-|<img align="right" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilinro&hide=javascript,html,css)](https://github.com/qilinbro)|
+|<img align="right" src="https://github-readme-stats.vercel.app/api?username=qilinbro&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&hide=javascript,html,css)](https://github.com/qilinbro)|
 |---|---|
 
 
@@ -42,6 +41,6 @@
    <img src="github-metrics.svg" alt="typing-svg">
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
-![image](https://github.com/ANGJustinl/ANGJustinl/assets/96008766/f6c957b8-b907-482a-8804-4c1f944d4b60)
+[![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=qilinbro&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
+
 </details>
