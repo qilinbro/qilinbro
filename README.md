@@ -41,6 +41,6 @@
    <img src="github-metrics.svg" alt="typing-svg">
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=qilinbro&theme=dracula)](https://github.com/qilinbro/qilinbro)
+[![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=qilinbro&theme=dracula)](https://github.com/qilinbro)
 
 </details>
