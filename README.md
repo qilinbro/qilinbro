@@ -22,22 +22,17 @@
 ### 📊 统计信息 / Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qilinbro&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### 📈 活动图表 / Activity Graph
 
-<details>
-<summary>点击展开 / Click to expand</summary>
-
-<p align="center">
-   <img src="github-metrics.svg" alt="Metrics">
-</p>
-
+<div align="center">
+  
 [![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true)](https://github.com/qilinbro)
 
-</details>
+</div>
 
 ### ✨ 关于我 / About Me
 
