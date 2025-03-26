@@ -1,46 +1,47 @@
 <div align="center">
 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1Welcome_to_qilin's_space!)](https://qilinbro.github.io/)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1Come_here_~%F0%9F%8C%B1+!)](https://qilinbro.github.io/)
-
-
-### 🥛|**qilin**|🥛HERE
-![image](https://github.com/user-attachments/assets/816ec47d-52ae-4a06-b1de-afb7e4828983)
-
-
-
-[![Email](https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=flat-square&logoColor=fff)](mailto:qilinxie05@gmail.com)
-[![QQ](https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
-
-
-
-
-✨STUDENT 
+### 👋 Hi, I'm qilin
 
 </div>
 
 ---
 
-### 🎨USING
+### 📫 联系方式 / Contact Me
 
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
+[![Email](https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qilinxie05@gmail.com)
+[![QQ](https://img.shields.io/badge/QQ-3221565903-98FB98?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
 
+### 🔧 技术栈 / Tech Stack
 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-|<img align="right" src="https://github-readme-stats.vercel.app/api?username=qilinbro&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&hide=javascript,html,css)](https://github.com/qilinbro)|
-|---|---|
+### 📊 统计信息 / Statistics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
 
-
-
-### 📊*Statistic* 
+### 📈 活动图表 / Activity Graph
 
 <details>
+<summary>点击展开 / Click to expand</summary>
 
 <p align="center">
-   <img src="github-metrics.svg" alt="typing-svg">
+   <img src="github-metrics.svg" alt="Metrics">
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=qilinbro&theme=dracula)](https://github.com/qilinbro)
+[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true)](https://github.com/qilinbro)
 
 </details>
+
+### ✨ 关于我 / About Me
+
+- 🎓 学生 / Student
+- 🌱 正在学习和成长 / Learning and Growing
+- 💡 热爱编程 / Love Coding
+- 🎯 追求技术进步 / Pursuing Technical Progress
