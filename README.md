@@ -19,6 +19,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 📚 技术微刊 / Weekly Magazine
+
+每周分享优质技术文章、开源项目和实用工具。
+
+[![Weekly](https://img.shields.io/badge/Weekly-Magazine-blue?style=for-the-badge&logo=markdown&logoColor=white)](weekly/README.md)
+
+> [最新一期](weekly/2024/issue-1.md) | [历史归档](weekly/README.md)
+
 ### 📊 统计信息 / Statistics
 
 <div align="center">
