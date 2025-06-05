@@ -14,6 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=qilinbro&label=Views&style=for-the-badge" alt="views">
 </div>
 
+### 📚 技术微刊 / Weekly Magazine
+
+每周分享优质技术文章、开源项目和实用工具。
+
+[![Weekly](https://img.shields.io/badge/Weekly-Magazine-blue?style=for-the-badge&logo=markdown&logoColor=white)](weekly/README.md)
+
+> [最新一期](weekly/2024/issue-1.md) | [历史归档](weekly/README.md)
+
 ### 💻 Code Time
 <details>
 <summary>查看统计 / View Stats</summary>
@@ -34,7 +42,7 @@
 📊 **本周我的工作细则** 
 
 ```text
-🕑︎ 时区: Asia/Xining
+🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
 暂无数据
@@ -55,7 +63,7 @@
 暂无数据统计
 ```
 
-Last Updated on 2025/06/05 16:49:43 UTC
+Last Updated on 2025/06/05 17:28:20 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
