@@ -45,73 +45,17 @@
 ### 💻 编程时间 / Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511%20lines%20of%20code-blue)
+```txt
+From: 04 June 2025 - To: 05 June 2025
 
-**🐱 My GitHub Data** 
+Total Time: 2 hrs 16 mins
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                46 commits          ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌆 Daytime                39 commits          ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌃 Evening                56 commits          ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   47 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Tuesday                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Wednesday                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML       1 hr 15 mins    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.42 %
+Markdown   58 mins         🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.72 %
+Git        2 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.86 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Xining
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-
- Last Updated on 05/06/2025 14:17:19 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系方式 / Contact Me
