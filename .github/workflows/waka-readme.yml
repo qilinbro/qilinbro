@@ -2,12 +2,13 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC everyday
+    # Runs at 12am Asia/Shanghai
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaTime Readme Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
