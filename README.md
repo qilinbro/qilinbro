@@ -44,6 +44,14 @@
 
 ### 💻 编程时间 / Coding Time
 
+<div align="center">
+
+[![WakaTime统计](https://wakatime.com/share/@qilinbro/d6f678dd-a896-418c-8a8f-2f236e744256.svg)](https://wakatime.com/@qilinbro)
+
+[![编程语言统计](https://wakatime.com/share/@qilinbro/b5abe9d7-7f85-4def-8c99-200855be2753.svg)](https://wakatime.com/@qilinbro)
+
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
