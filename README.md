@@ -28,11 +28,11 @@
 
 ☀️ 早上是写代码和上早八的黄金时间～
 
-🎮 下午会玩会游戏放松一下
+🎮 下午会玩火影放松（红温）一下
 
-📚 傍晚是学习和思考的好时光
+📚 傍晚是学习和思考（色色）的好时光
 
-🌙 深夜最适合 Debug 和肝项目了
+🌙 深夜最适合 Debug 和肝项目（guitar）了
 
 </div>
 
@@ -85,7 +85,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Xining
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -163,4 +163,4 @@ CSS                      1 repo              █████░░░░░░�
 - 🌱 正在学习和成长，永远保持求知欲
 - 💡 热爱编程，享受创造的乐趣
 - 🎯 追求技术进步，但也不忘生活平衡
-- 🌈 梦想成为一名优秀的全栈开发者
+- 🌈 梦想成为一名优秀的全栈开发者和机械工程师
