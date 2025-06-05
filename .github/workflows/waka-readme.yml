@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am Asia/Shanghai
+    # Runs at 12am Asia/Xining
     - cron: '0 16 * * *'
   workflow_dispatch:
 
@@ -18,10 +18,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          TIME_RANGE: last_7_days
+          SECTION_NAME: "waka"
+          BLOCKS: "⬜🟨🟩🟦"
+          TIME_RANGE: "all_time"
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
-          COMMIT_MESSAGE: "更新 WakaTime 统计信息"
+          SHOW_MASKED_TIME: true
+          COMMIT_MESSAGE: "📊 更新编程统计信息"

@@ -22,76 +22,29 @@
 
 > [最新一期](weekly/2024/issue-1.md) | [历史归档](weekly/README.md)
 
+### 🌟 每日状态 / Daily Status
+
+<div align="center">
+
+☀️ 早上是写代码和喝咖啡的黄金时间～
+
+🎮 下午会玩会游戏放松一下
+
+📚 傍晚是学习和思考的好时光
+
+🌙 深夜最适合 Debug 和肝项目了
+
+</div>
+
+<div align="center">
+
+### 🤔 每日发呆24小时 / Daily Daydreaming 24H 🌈
+
+</div>
+
 ### 💻 编程时间 / Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                46 commits          ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌆 Daytime                39 commits          ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌃 Evening                56 commits          ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   47 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Tuesday                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Wednesday                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-
- Last Updated on 05/06/2025 13:56:32 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系方式 / Contact Me
@@ -122,23 +75,25 @@ CSS                      1 repo              █████░░░░░░�
 
 ### 📈 活动统计 / Activity Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&hide_border=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn" height="180px">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qilinbro&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qilinbro&theme=tokyonight&hide_border=true&locale=zh" width="95%">
 </div>
 
 ### 📊 贡献图表 / Contribution Graph
 <div align="center">
   
-[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true)](https://github.com/qilinbro)
+[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true&locale=cn)](https://github.com/qilinbro)
 
 </div>
 
 ### ✨ 关于我 / About Me
-- 🎓 学生 / Student
-- 🌱 正在学习和成长 / Learning and Growing
-- 💡 热爱编程 / Love Coding
-- 🎯 追求技术进步 / Pursuing Technical Progress
+- 🎮 游戏爱好者，最爱 Minecraft 和 Genshin Impact
+- 🎧 音乐发烧友，编程时一定要听音乐
+- 🌱 正在学习和成长，永远保持求知欲
+- 💡 热爱编程，享受创造的乐趣
+- 🎯 追求技术进步，但也不忘生活平衡
+- 🌈 梦想成为一名优秀的全栈开发者
