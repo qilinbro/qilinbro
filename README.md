@@ -45,7 +45,6 @@
 ### 💻 编程时间 / Coding Time
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 04 June 2025 - To: 06 June 2025
 
@@ -62,17 +61,17 @@ JavaScript   2 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 HTML         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.33 %
 Other        0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.21 %
 ```
-
 <!--END_SECTION:waka-->
 
 ### 📫 联系方式 / Contact Me
 <div align="center">
-<a href="mailto:qilinxie05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0">
-  <img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ">
-</a>
+  <a href="mailto:qilinxie05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0">
+    <img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
+  </a>
 </div>
 
 ### 🔧 技术栈 / Tech Stack
