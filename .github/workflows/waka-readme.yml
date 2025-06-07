@@ -2,8 +2,12 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am Asia/Xining
+    # 北京时间 00:00 (UTC 16:00)
     - cron: '0 16 * * *'
+    # 北京时间 08:00 (UTC 00:00)
+    - cron: '0 0 * * *'
+    # 北京时间 16:00 (UTC 08:00)
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
