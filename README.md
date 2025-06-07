@@ -71,7 +71,10 @@ Other        0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
   &nbsp;&nbsp;
   <a href="https://qm.qq.com/q/PBa9kLBpo6" target="_blank">
     <img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ">
-</a>
+  </a>
+  <a href="https://www.youtube.com/@kirenbro" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 
 </a>
 
