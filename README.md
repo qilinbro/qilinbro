@@ -101,9 +101,9 @@ Prisma       1 hr 1 min            🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### 📈 活动统计 / Activity Statistics
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
 </div>
 
 <div align="center">
