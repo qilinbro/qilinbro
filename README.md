@@ -100,22 +100,25 @@ Prisma       1 hr 1 min            🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </div>
 
 ### 📈 活动统计 / Activity Statistics
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight" />
 
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
-</div>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=qilinbro&theme=tokyonight&hide_border=true&locale=zh_Hans" />
 </div>
-### 📊 贡献图表 / Contribution Graph
+
 <div align="center">
-  
-[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true&locale=cn)](https://github.com/qilinbro)
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true" />
 </div>
-
 ### ✨ 关于我 / About Me
 - 🎮 游戏爱好者，最爱 Minecraft 和 Genshin Impact
 - 🎧 音乐发烧友，编程时一定要听音乐
