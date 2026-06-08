@@ -16,6 +16,10 @@
           <a href="mailto:qilinxie05@gmail.com"><img src="https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=fff" alt="Email" /></a>
           <a href="https://qilinbro.github.io/"><img src="https://img.shields.io/badge/Website-qilinbro.github.io-3A2ACD?style=flat-square&logo=githubpages&logoColor=fff" alt="Website" /></a>
           <a href="https://qm.qq.com/q/PBa9kLBpo6"><img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logo=tencentqq&logoColor=fff" alt="QQ" /></a>
+          <img src="https://img.shields.io/badge/WeChat-kirinbro-07C160?style=flat-square&logo=wechat&logoColor=fff" alt="WeChat" />
+          <a href="https://www.instagram.com/kirenxie/"><img src="https://img.shields.io/badge/Instagram-kirenxie-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram" /></a>
+          <img src="https://img.shields.io/badge/RedNote-42271875144-FF2442?style=flat-square&logo=xiaohongshu&logoColor=fff" alt="RedNote" />
+          <a href="https://www.douyin.com/user/MS4wLjABAAAAljkXghE_MVrQ_LuS8sIMHVW2Ysq53ijNNZAPqfyvF5WY56izdfcCfR3o91V9P5G6?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-35503009597-000000?style=flat-square&logo=tiktok&logoColor=fff" alt="Douyin" /></a>
           <a href="https://www.youtube.com/@kirenbro"><img src="https://img.shields.io/badge/YouTube-kirenbro-FF0000?style=flat-square&logo=youtube&logoColor=fff" alt="YouTube" /></a>
           <img src="https://komarev.com/ghpvc/?username=qilinbro&label=Views&style=flat-square" alt="Views" />
         </p>
