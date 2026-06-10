@@ -123,12 +123,18 @@
   <tbody>
     <tr>
       <td colspan="6">
-        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=tokyo-night&hide_border=true&bg_color=0000" />
-            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qilinbro&theme=github-light&hide_border=true&bg_color=0000" alt="Activity Graph" />
-          </picture>
-        </a>
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/output/github-snake-dark.svg" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/output/github-snake.svg" />
+          <img
+            width="100%"
+            alt="github contribution snake"
+            src="https://raw.githubusercontent.com/qilinbro/qilinbro/output/github-snake-dark.svg" />
+        </picture>
       </td>
     </tr>
   </tbody>

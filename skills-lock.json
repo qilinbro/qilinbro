@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "astro": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "astro/SKILL.md",
+      "computedHash": "39a6cfe33a7f2082977d015f343f84528190d76665604a02dde0ac3baceed1a1"
+    }
+  }
+}
