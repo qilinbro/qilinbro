@@ -40,7 +40,7 @@
           <a href="weekly/README.md"><img src="https://img.shields.io/badge/Weekly-Magazine-blue?style=for-the-badge&logo=markdown&logoColor=white" alt="Weekly Magazine" /></a>
         </p>
         <p align="center">
-          <a href="weekly/2024/issue-1.md">最新一期</a> · <a href="weekly/README.md">历史归档</a>
+          <a href="weekly/2026/issue-2.md">最新一期</a> · <a href="weekly/README.md">历史归档</a>
         </p>
       </td>
     </tr>
