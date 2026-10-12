@@ -75,16 +75,16 @@
       <td colspan="3">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=qilinbro&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000" />
-            <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qilinbro&show_icons=true&hide_border=true&locale=cn&bg_color=0000" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/stats-dark.svg" />
+            <img height="100%" src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/stats-light.svg" alt="GitHub Stats" />
           </picture>
         </a>
       </td>
       <td colspan="3">
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=qilinbro&theme=tokyonight&hide_border=true&locale=zh_Hans&background=0000" />
-            <img height="100%" src="https://streak-stats.demolab.com?user=qilinbro&hide_border=true&locale=zh_Hans&background=0000" alt="GitHub Streak" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/streak-dark.svg" />
+            <img height="100%" src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/streak-light.svg" alt="GitHub Streak" />
           </picture>
         </a>
       </td>
@@ -104,8 +104,8 @@
       <td colspan="2">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qilinbro&layout=compact&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000" />
-            <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qilinbro&layout=compact&hide_border=true&locale=cn&bg_color=0000" alt="Top Languages" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/top-langs-dark.svg" />
+            <img height="100%" src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/top-langs-light.svg" alt="Top Languages" />
           </picture>
         </a>
       </td>
