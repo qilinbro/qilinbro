@@ -1,0 +1,122 @@
+name: Update profile cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+      - .github/scripts/validate-profile-cards.py
+  schedule:
+    # 11:17 Asia/Shanghai; avoid the busiest start of the hour.
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    env:
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      # Generate into a separate directory. Never overwrite a published card
+      # until every new card has rendered and passed validation.
+      - name: Generate light stats
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/stats-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark stats
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/stats-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate light languages
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/top-langs-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark languages
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/top-langs-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate light streak
+        uses: DenverCoder1/github-readme-streak-stats@55b1994a6d5825f57f748b622cd64d5ea54989a0 # v1
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&locale=zh_Hans&background=0000
+          path: .profile-card-build/streak-light.svg
+          token: ${{ github.token }}
+
+      - name: Generate dark streak
+        uses: DenverCoder1/github-readme-streak-stats@55b1994a6d5825f57f748b622cd64d5ea54989a0 # v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&locale=zh_Hans&background=0000
+          path: .profile-card-build/streak-dark.svg
+          token: ${{ github.token }}
+
+      - name: Validate all cards
+        run: python3 .github/scripts/validate-profile-cards.py .profile-card-build
+
+      - name: Publish validated cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          cards=(stats-light.svg stats-dark.svg top-langs-light.svg top-langs-dark.svg streak-light.svg streak-dark.svg)
+          mkdir -p profile
+          paths=()
+          for card in "${cards[@]}"; do
+            cp ".profile-card-build/$card" "profile/$card"
+            paths+=("profile/$card")
+          done
+          git add -- "${paths[@]}"
+          if git diff --cached --quiet; then
+            echo "Profile cards are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "📊 Update profile cards"
+          # WakaTime can update README while cards render. Rebase only our
+          # card commit onto the latest branch and retry a racing push.
+          for attempt in 1 2 3; do
+            git fetch origin "$TARGET_BRANCH"
+            git rebase "origin/$TARGET_BRANCH"
+            if git push origin "HEAD:$TARGET_BRANCH"; then
+              exit 0
+            fi
+            echo "Branch advanced during publish; retry $attempt of 3."
+          done
+          echo "Could not publish cards after three attempts." >&2
+          exit 1

@@ -196,8 +196,8 @@ SSH Config   3 hrs 46 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-        </details>
-      </td>
-    </tr>
+</details>
+</td>
+</tr>
   </tbody>
 </table>
