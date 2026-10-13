@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="186" viewBox="0 0 1200 186" role="img" aria-labelledby="title desc">
+<title id="title">Public workbench</title><desc id="desc">GitHub public repository overview, excluding private data</desc>
+<rect x="1" y="1" width="1198" height="184" rx="16" fill="#f6f8fa" stroke="#d8dee4"/>
+<g font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<text x="32" y="35" fill="#576574" font-size="16" font-weight="600">PUBLIC WORKBENCH  /  公开创作面板</text>
+<text x="32" y="115" fill="#0f766e" font-size="48" font-weight="700">21</text>
+<text x="32" y="151" fill="#1f2937" font-size="19" font-weight="400">公开仓库 / Public repos</text>
+<path d="M308 60V156" stroke="#d8dee4"/>
+<text x="330" y="115" fill="#0f766e" font-size="48" font-weight="700">15</text>
+<text x="330" y="151" fill="#1f2937" font-size="19" font-weight="400">自主仓库 / Original repos</text>
+<path d="M606 60V156" stroke="#d8dee4"/>
+<text x="628" y="115" fill="#0f766e" font-size="48" font-weight="700">5</text>
+<text x="628" y="151" fill="#1f2937" font-size="19" font-weight="400">自主仓库获得的 Stars</text>
+<path d="M904 60V156" stroke="#d8dee4"/>
+<text x="926" y="115" fill="#0f766e" font-size="48" font-weight="700">5</text>
+<text x="926" y="151" fill="#1f2937" font-size="19" font-weight="400">自主项目主要语言</text>
+</g></svg>

@@ -1,0 +1,56 @@
+name: Update profile modules
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-extras.yml
+      - .github/scripts/update-profile-extras.py
+      - weekly/**
+  schedule:
+    - cron: '27 3 * * *'
+  workflow_run:
+    workflows: [Waka Readme]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-modules
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    env:
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - name: Refresh public modules
+        run: python3 .github/scripts/update-profile-extras.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Publish verified modules
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- README.md profile/overview-light.svg profile/overview-dark.svg profile/coding-light.svg profile/coding-dark.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "📊 Refresh public profile modules"
+          for attempt in 1 2 3; do
+            git fetch origin "$TARGET_BRANCH"
+            git rebase "origin/$TARGET_BRANCH"
+            if git push origin "HEAD:$TARGET_BRANCH"; then exit 0; fi
+          done
+          exit 1
