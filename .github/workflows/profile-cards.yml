@@ -6,6 +6,7 @@ on:
     paths:
       - .github/workflows/profile-cards.yml
       - .github/scripts/validate-profile-cards.py
+      - .github/scripts/publish-profile-cards.sh
   schedule:
     # 11:17 Asia/Shanghai; avoid the busiest start of the hour.
     - cron: '17 3 * * *'
@@ -90,33 +91,184 @@ jobs:
         run: python3 .github/scripts/validate-profile-cards.py .profile-card-build
 
       - name: Publish validated cards
-        shell: bash
+        run: bash .github/scripts/publish-profile-cards.sh .profile-card-build base
+
+  project-pins:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    env:
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Generate light website pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=qilinbro.github.io&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-website-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark website pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=qilinbro.github.io&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-website-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate light social pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=A2A-Social-graphy-universe&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-social-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark social pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=A2A-Social-graphy-universe&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-social-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate light game pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=game-friends&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-game-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark game pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=game-friends&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-game-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate light image-grid pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=image-grid-generator&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-image-grid-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate dark image-grid pin
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=image-grid-generator&theme=tokyonight&hide_border=true&locale=cn&bg_color=0000
+          path: .profile-card-build/pin-image-grid-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Publish validated project pins
+        run: bash .github/scripts/publish-profile-cards.sh .profile-card-build pins
+
+  summary-cards:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    env:
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      # The official Action writes only its scratch output directory. It may
+      # report partial API errors without failing, so validate every SVG below.
+      - name: Generate default summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f # release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+          THEME: default
+
+      - name: Stage default summary cards
         run: |
-          set -euo pipefail
-          cards=(stats-light.svg stats-dark.svg top-langs-light.svg top-langs-dark.svg streak-light.svg streak-dark.svg)
-          mkdir -p profile
-          paths=()
-          for card in "${cards[@]}"; do
-            cp ".profile-card-build/$card" "profile/$card"
-            paths+=("profile/$card")
+          mkdir -p .profile-card-build/summary-default
+          for card in 0-profile-details 1-repos-per-language 2-most-commit-language 3-stats 4-productive-time; do
+            cp "profile-summary-card-output/default/$card.svg" ".profile-card-build/summary-default/$card.svg"
           done
-          git add -- "${paths[@]}"
-          if git diff --cached --quiet; then
-            echo "Profile cards are unchanged."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "📊 Update profile cards"
-          # WakaTime can update README while cards render. Rebase only our
-          # card commit onto the latest branch and retry a racing push.
-          for attempt in 1 2 3; do
-            git fetch origin "$TARGET_BRANCH"
-            git rebase "origin/$TARGET_BRANCH"
-            if git push origin "HEAD:$TARGET_BRANCH"; then
-              exit 0
-            fi
-            echo "Branch advanced during publish; retry $attempt of 3."
+
+      - name: Generate dark summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f # release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+          THEME: tokyonight
+
+      - name: Stage dark summary cards
+        run: |
+          mkdir -p .profile-card-build/summary-tokyonight
+          for card in 0-profile-details 1-repos-per-language 2-most-commit-language 3-stats 4-productive-time; do
+            cp "profile-summary-card-output/tokyonight/$card.svg" ".profile-card-build/summary-tokyonight/$card.svg"
           done
-          echo "Could not publish cards after three attempts." >&2
-          exit 1
+
+      - name: Publish validated summary cards
+        run: bash .github/scripts/publish-profile-cards.sh .profile-card-build summary
+
+  contribution-3d:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    env:
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Isolate official 3D output in temporary storage
+        run: |
+          mkdir -p "$RUNNER_TEMP/profile-3d-output"
+          ln -s "$RUNNER_TEMP/profile-3d-output" profile-3d-contrib
+
+      - name: Generate 3D contribution views
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # latest
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
+
+      - name: Stage the two requested 3D views
+        run: |
+          mkdir -p .profile-card-build/3d
+          cp "$RUNNER_TEMP/profile-3d-output/profile-green-animate.svg" .profile-card-build/3d/
+          cp "$RUNNER_TEMP/profile-3d-output/profile-night-green.svg" .profile-card-build/3d/
+
+      - name: Publish validated 3D contribution views
+        run: bash .github/scripts/publish-profile-cards.sh .profile-card-build 3d

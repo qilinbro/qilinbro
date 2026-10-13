@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="banner-title-light banner-desc-light">
+  <title id="banner-title-light">Kirin — code, mechanical engineering, and learning in public</title>
+  <desc id="banner-desc-light">Kirin is a student and future full-stack developer studying mechanical engineering. An original engineering blueprint combines a precision wheel assembly, branching code paths, and a growing seedling. Light and dark editions use teal and restrained warm gold details.</desc>
+  <defs>
+    <pattern id="grid-light" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#dbe6e8" stroke-width=".6"/></pattern>
+    <pattern id="points-light" width="96" height="96" patternUnits="userSpaceOnUse"><circle cx="0" cy="0" r="1.1" fill="#cbd8dc"/></pattern>
+    <clipPath id="frame-light"><rect x="1" y="1" width="1198" height="338" rx="18"/></clipPath>
+    <style>
+      .label { font-family: 'Consolas', 'Liberation Mono', 'Courier New', monospace; }
+      .body { font-family: 'Trebuchet MS', 'Verdana', sans-serif; }
+      .signal { animation: signal-breathe 4s ease-in-out infinite; }
+      @keyframes signal-breathe { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 1; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame-light)">
+    <rect width="1200" height="340" fill="#f6f8fa"/>
+    <rect x="706" width="494" height="340" fill="url(#grid-light)"/>
+    <rect x="706" width="494" height="340" fill="url(#points-light)"/>
+    <path d="M706 32V308" stroke="#cbd8dc" stroke-width="1" stroke-dasharray="3 7"/>
+    <g fill="none" stroke="#cbd8dc" stroke-width="1">
+      <path d="M32 48V32H48 M1152 32H1168V48 M32 292V308H48 M1152 308H1168V292"/>
+      <path d="M60 252H665"/>
+    </g>
+    <g class="label" font-size="14" letter-spacing="2.2" fill="#5b6b77">
+      <text x="60" y="58">KIRIN'S SPACE / FIELD NOTES</text>
+      <text x="60" y="289">CODE × MECHANICAL</text>
+    </g>
+    <text x="55" y="162" fill="#1f2937" font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif" font-size="112" letter-spacing="-4">Kirin<tspan fill="#0f766e">.</tspan></text>
+    <g class="body" fill="#1f2937" font-size="22">
+      <text x="61" y="207">Student · Future Full-stack Developer</text>
+      <text x="61" y="235" font-size="19" fill="#5b6b77">Mechanical Engineering · Learning in public</text>
+    </g>
+    <g class="label" font-size="13" fill="#5b6b77">
+      <circle cx="436" cy="284" r="4" fill="#0f766e" class="signal"/>
+      <text x="450" y="289">GROW A LITTLE, EVERY DAY</text>
+    </g>
+    <!-- Original engineering linework: a bolted wheel assembly and a branching code route. -->
+    <g fill="none" stroke="#cbd8dc" stroke-width="1">
+      <path d="M777 163H1134 M947 32V298" stroke-dasharray="4 6"/>
+      <path d="M814 61H1080 M814 56V66 M1080 56V66"/>
+      <path d="M814 263H1080 M814 258V268 M1080 258V268"/>
+      <path d="M813 66V260 M808 66H818 M808 260H818"/>
+      <circle cx="947" cy="163" r="120"/>
+      <circle cx="947" cy="163" r="112" stroke-width="1.5"/>
+      <circle cx="947" cy="163" r="102"/>
+      <circle cx="947" cy="163" r="82" stroke-dasharray="3 6"/>
+      <circle cx="947" cy="163" r="54" stroke-width="1.5"/>
+      <circle cx="947" cy="163" r="44"/>
+      <circle cx="1040.00" cy="163.00" r="5.8"/><circle cx="1040.00" cy="163.00" r="2"/><circle cx="1012.76" cy="228.76" r="5.8"/><circle cx="1012.76" cy="228.76" r="2"/><circle cx="947.00" cy="256.00" r="5.8"/><circle cx="947.00" cy="256.00" r="2"/><circle cx="881.24" cy="228.76" r="5.8"/><circle cx="881.24" cy="228.76" r="2"/><circle cx="854.00" cy="163.00" r="5.8"/><circle cx="854.00" cy="163.00" r="2"/><circle cx="881.24" cy="97.24" r="5.8"/><circle cx="881.24" cy="97.24" r="2"/><circle cx="947.00" cy="70.00" r="5.8"/><circle cx="947.00" cy="70.00" r="2"/><circle cx="1012.76" cy="97.24" r="5.8"/><circle cx="1012.76" cy="97.24" r="2"/>
+      <path d="M1002.00 163.00 L1026.00 163.00"/><path d="M985.89 201.89 L1002.86 218.86"/><path d="M947.00 218.00 L947.00 242.00"/><path d="M908.11 201.89 L891.14 218.86"/><path d="M892.00 163.00 L868.00 163.00"/><path d="M908.11 124.11 L891.14 107.14"/><path d="M947.00 108.00 L947.00 84.00"/><path d="M985.89 124.11 L1002.86 107.14"/>
+      <path d="M937 128H957V143H973V182H957V198H937V182H921V143H937Z"/>
+    </g>
+    <g fill="none" stroke="#0f766e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M737 222H765V193H797V163H827"/>
+      <path d="M765 193V114H805V91H841"/>
+      <path d="M1067 163H1095V207H1121"/>
+      <path d="M1095 207V236H1152"/>
+      <circle cx="737" cy="222" r="4" fill="#f6f8fa"/>
+      <circle cx="841" cy="91" r="4" fill="#f6f8fa"/>
+      <circle cx="1121" cy="207" r="4" fill="#f6f8fa"/>
+      <circle cx="1152" cy="236" r="4" fill="#f6f8fa"/>
+      <path d="M850 128A102 102 0 0 1 909 68 M999 252A102 102 0 0 0 1040 205" stroke="#ac8749" stroke-width="2"/>
+    </g>
+    <!-- The seedling grows from the assembly hub, joining craft and curiosity. -->
+    <g stroke="#0f766e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M947 183C952 160 948 139 932 117C924 105 922 93 925 80" fill="none"/>
+      <path d="M939 131C917 132 897 120 895 98C919 96 937 108 939 131Z" fill="#e2f0ec"/>
+      <path d="M931 115C951 116 969 104 971 82C948 79 933 95 931 115Z" fill="#e2f0ec"/>
+      <path d="M925 84C907 80 898 67 901 53C921 53 931 67 925 84Z" fill="#e2f0ec"/>
+      <path d="M898 102L933 126 M967 86L936 110 M905 57L925 80" fill="none" stroke-width="1.1"/>
+    </g>
+    <circle cx="947" cy="163" r="3" fill="#ac8749"/>
+    <g class="label" font-size="11.5" fill="#5b6b77" letter-spacing="1.5">
+      <text x="1097" y="74">ITERATE</text>
+      <path d="M1080 80H1138" stroke="#cbd8dc"/>
+      <text x="1097" y="91" font-size="10.5">BUILD / SHARE</text>
+      <text x="824" y="299">PRECISION IN CRAFT · ROOM TO GROW</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#cbd8dc"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="footer-title-light footer-desc-light">
+  <title id="footer-title-light">Keep learning · Keep creating</title>
+  <desc id="footer-desc-light">Kirin's closing note: keep learning and keep creating. A teal seedling joins a fine engineering path, with an open-ended line that represents continued growth.</desc>
+  <defs><style>.mono { font-family: 'Consolas', 'Liberation Mono', 'Courier New', monospace; }</style></defs>
+  <rect x=".5" y=".5" width="1199" height="149" rx="16" fill="#f6f8fa" stroke="#cbd8dc"/>
+  <g fill="none" stroke="#cbd8dc" stroke-width="1">
+    <path d="M38 38V24H52 M1148 24H1162V38 M38 112V126H52 M1148 126H1162V112"/>
+    <path d="M60 75H238L254 59H302 M901 59H945L961 75H1138"/>
+    <circle cx="242" cy="75" r="4"/><circle cx="961" cy="75" r="4"/>
+  </g>
+  <g stroke="#0f766e" stroke-width="1.8" stroke-linejoin="round">
+    <path d="M125 100C129 81 126 69 117 57" fill="none"/>
+    <path d="M123 69C106 71 98 62 98 49C114 49 123 56 123 69Z" fill="#e2f0ec"/>
+    <path d="M122 66C138 65 147 55 145 42C131 43 123 51 122 66Z" fill="#e2f0ec"/>
+  </g>
+  <text x="600" y="73" text-anchor="middle" fill="#1f2937" font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif" font-size="35" letter-spacing=".2">Keep learning · Keep creating</text>
+  <text x="600" y="105" text-anchor="middle" class="mono" font-size="12" letter-spacing="2" fill="#5b6b77">GROWTH IS AN OPEN-ENDED PROJECT</text>
+  <g fill="#ac8749"><circle cx="1070" cy="75" r="3"/><circle cx="1085" cy="75" r="3" opacity=".65"/><circle cx="1100" cy="75" r="3" opacity=".35"/></g>
+</svg>
