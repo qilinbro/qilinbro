@@ -2,7 +2,7 @@
       <svg
         width="400"
         height="150"
-        viewBox="0 0 400 120"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -125,7 +125,7 @@
       <tspan dy="1.2em" x="25">Python&#22270;&#29255;&#32593;&#26684;&#29983;&#25104;&#22120;，&#25903;&#25345;&#23558;9&#24352;&#22270;&#29255;&#21512;&#24182;&#20026;&#19968;&#20010;3x3&#32593;&#26684;</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
@@ -134,7 +134,7 @@
     </g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 68)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     
