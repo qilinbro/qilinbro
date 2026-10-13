@@ -16,7 +16,7 @@
 <p align="center">把代码、机械结构和好奇心，变成可以看见的作品。</p>
 
 <p align="center">
-<a href="#about">关于我</a> · <a href="#projects">项目</a> · <a href="#stack">技术栈</a> · <a href="#signals">统计</a> · <a href="#contributions">贡献</a> · <a href="#coding">编程时间</a> · <a href="#notes">手账</a> · <a href="#connect">联系</a>
+<a href="#user-content-about">关于我</a> · <a href="#user-content-projects">项目</a> · <a href="#user-content-stack">技术栈</a> · <a href="#user-content-signals">统计</a> · <a href="#user-content-contributions">贡献</a> · <a href="#user-content-coding">编程时间</a> · <a href="#user-content-notes">手账</a> · <a href="#user-content-connect">联系</a>
 </p>
 
 <p align="center">
@@ -425,7 +425,7 @@ SSH Config   3 hrs 46 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/footer-light.svg" alt="Keep learning · Keep creating" width="100%" />
 </picture>
 
-<p align="center"><a href="#top">↑ 回到顶部</a> · <a href="https://qilinbro.github.io/">进入个人网站</a> · <a href="https://github.com/qilinbro?tab=repositories">探索全部仓库</a></p>
+<p align="center"><a href="#user-content-top">↑ 回到顶部</a> · <a href="https://qilinbro.github.io/">进入个人网站</a> · <a href="https://github.com/qilinbro?tab=repositories">探索全部仓库</a></p>
 
 <details>
 <summary><sub>展示模块与更新方式 / About this profile</sub></summary>
