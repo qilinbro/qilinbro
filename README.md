@@ -16,25 +16,31 @@
 <p align="center">把代码、机械结构和好奇心，变成可以看见的作品。</p>
 
 <p align="center">
-<a href="#user-content-about">关于我</a> · <a href="#user-content-projects">项目</a> · <a href="#user-content-stack">技术栈</a> · <a href="#user-content-signals">统计</a> · <a href="#user-content-contributions">贡献</a> · <a href="#user-content-coding">编程时间</a> · <a href="#user-content-notes">手账</a> · <a href="#user-content-connect">联系</a>
+<a href="#user-content-about">关于我</a> · <a href="#user-content-projects">项目</a> · <a href="#user-content-stack">技术栈</a> · <a href="#user-content-signals">统计</a> · <a href="#user-content-contributions">贡献</a><br />
+<a href="#user-content-coding">编程时间</a> · <a href="#user-content-notes">手账</a> · <a href="#user-content-life">代码之外</a> · <a href="#user-content-connect">联系</a>
 </p>
 
 <p align="center">
 <a href="mailto:qilinxie05@gmail.com"><img src="https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=fff" alt="Email" /></a>
-          <a href="https://qilinbro.github.io/"><img src="https://img.shields.io/badge/Website-qilinbro.github.io-3A2ACD?style=flat-square&logo=githubpages&logoColor=fff" alt="Website" /></a>
-          <a href="https://qm.qq.com/q/PBa9kLBpo6"><img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logo=tencentqq&logoColor=fff" alt="QQ" /></a>
-          <img src="https://img.shields.io/badge/WeChat-kirinbro-07C160?style=flat-square&logo=wechat&logoColor=fff" alt="WeChat" />
-          <a href="https://www.instagram.com/kirenxie/"><img src="https://img.shields.io/badge/Instagram-kirenxie-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram" /></a>
-          <img src="https://img.shields.io/badge/RedNote-42271875144-FF2442?style=flat-square&logo=xiaohongshu&logoColor=fff" alt="RedNote" />
-          <a href="https://www.douyin.com/user/MS4wLjABAAAAljkXghE_MVrQ_LuS8sIMHVW2Ysq53ijNNZAPqfyvF5WY56izdfcCfR3o91V9P5G6?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-35503009597-000000?style=flat-square&logo=tiktok&logoColor=fff" alt="Douyin" /></a>
-          <a href="https://www.youtube.com/@kirenbro"><img src="https://img.shields.io/badge/YouTube-kirenbro-FF0000?style=flat-square&logo=youtube&logoColor=fff" alt="YouTube" /></a>
-          <img src="https://komarev.com/ghpvc/?username=qilinbro&label=Views&style=flat-square" alt="Views" />
+<a href="https://qilinbro.github.io/"><img src="https://img.shields.io/badge/Website-qilinbro.github.io-3A2ACD?style=flat-square&logo=githubpages&logoColor=fff" alt="Website" /></a>
+<a href="https://qm.qq.com/q/PBa9kLBpo6"><img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logo=tencentqq&logoColor=fff" alt="QQ" /></a>
+<img src="https://img.shields.io/badge/WeChat-kirinbro-07C160?style=flat-square&logo=wechat&logoColor=fff" alt="WeChat" />
+</p>
 
+<p align="center">
+<a href="https://www.instagram.com/kirenxie/"><img src="https://img.shields.io/badge/Instagram-kirenxie-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/RedNote-42271875144-FF2442?style=flat-square&logo=xiaohongshu&logoColor=fff" alt="RedNote" />
+<a href="https://www.douyin.com/user/MS4wLjABAAAAljkXghE_MVrQ_LuS8sIMHVW2Ysq53ijNNZAPqfyvF5WY56izdfcCfR3o91V9P5G6?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-35503009597-000000?style=flat-square&logo=tiktok&logoColor=fff" alt="Douyin" /></a>
+<a href="https://www.youtube.com/@kirenbro"><img src="https://img.shields.io/badge/YouTube-kirenbro-FF0000?style=flat-square&logo=youtube&logoColor=fff" alt="YouTube" /></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/qilinbro?tab=followers"><img src="https://img.shields.io/github/followers/qilinbro?label=Followers&style=flat-square&color=0F766E" alt="GitHub followers" /></a>
 <a href="https://github.com/qilinbro?tab=repositories"><img src="https://img.shields.io/github/stars/qilinbro?label=Public%20Stars&style=flat-square&color=B88632" alt="GitHub public stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=qilinbro&label=Views&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
 <a href="https://github.com/qilinbro/qilinbro/actions/workflows/profile-cards.yml"><img src="https://github.com/qilinbro/qilinbro/actions/workflows/profile-cards.yml/badge.svg" alt="统计卡片更新状态" /></a>
 <a href="https://github.com/qilinbro/qilinbro/actions/workflows/profile-extras.yml"><img src="https://github.com/qilinbro/qilinbro/actions/workflows/profile-extras.yml/badge.svg" alt="动态模块更新状态" /></a>
 </p>
@@ -80,13 +86,13 @@
 <a href="https://github.com/qilinbro/qilinbro.github.io">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-website-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-website-light.svg" alt="qilinbro.github.io 项目卡片" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-website-light.svg" alt="qilinbro.github.io 项目卡片" width="400" />
 </picture>
 </a>
 <a href="https://github.com/qilinbro/A2A-Social-graphy-universe">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-social-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-social-light.svg" alt="A2A-Social-graphy-universe 项目卡片" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-social-light.svg" alt="A2A-Social-graphy-universe 项目卡片" width="400" />
 </picture>
 </a>
 </p>
@@ -94,13 +100,13 @@
 <a href="https://github.com/qilinbro/game-friends">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-game-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-game-light.svg" alt="game-friends 项目卡片" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-game-light.svg" alt="game-friends 项目卡片" width="400" />
 </picture>
 </a>
 <a href="https://github.com/qilinbro/image-grid-generator">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-image-grid-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-image-grid-light.svg" alt="image-grid-generator 项目卡片" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/pin-image-grid-light.svg" alt="image-grid-generator 项目卡片" width="400" />
 </picture>
 </a>
 </p>
@@ -151,12 +157,22 @@
 <a id="stack"></a>
 ## 03 / 技术栈 · Tools & systems
 
-<table>
-<tr><td><strong>Languages</strong><br /><sub>代码的基本构件</sub></td><td><img src="https://skillicons.dev/icons?i=cpp,python,js,ts&perline=8" alt="C++、Python、JavaScript、TypeScript" /></td></tr>
-<tr><td><strong>Frontend</strong><br /><sub>网站与交互实验</sub></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" alt="HTML、CSS、React、Next.js、Tailwind CSS" /></td></tr>
-<tr><td><strong>Backend / Data</strong><br /><sub>项目中实践的系统</sub></td><td><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres&perline=8" alt="Node.js、Prisma、PostgreSQL" /><br /><sub>社交图谱：Neo4j · 可视化：D3.js</sub></td></tr>
-<tr><td><strong>Workflow</strong><br /><sub>日常开发与自动化</sub></td><td><img src="https://skillicons.dev/icons?i=vscode,git,github,md,docker,bash&perline=8" alt="VS Code、Git、GitHub、Markdown、Docker、Bash" /></td></tr>
-</table>
+**Languages** · 代码的基本构件
+
+<p><img src="https://skillicons.dev/icons?i=cpp,python,js,ts&perline=8" alt="C++、Python、JavaScript、TypeScript" height="36" /></p>
+
+**Frontend** · 网站与交互实验
+
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" alt="HTML、CSS、React、Next.js、Tailwind CSS" height="36" /></p>
+
+**Backend / Data** · 项目中实践的系统
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres&perline=8" alt="Node.js、Prisma、PostgreSQL" height="36" /><br />
+<sub>社交图谱：Neo4j · 可视化：D3.js</sub></p>
+
+**Workflow** · 日常开发与自动化
+
+<p><img src="https://skillicons.dev/icons?i=vscode,git,github,md,docker,bash&perline=8" alt="VS Code、Git、GitHub、Markdown、Docker、Bash" height="36" /></p>
 
 <details>
 <summary><strong>🔬 学习与实践笔记 / How I build</strong></summary>
@@ -183,22 +199,22 @@ flowchart LR
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/stats-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/stats-light.svg" alt="GitHub 统计数据" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/stats-light.svg" alt="GitHub 统计数据" width="400" />
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/streak-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/streak-light.svg" alt="GitHub 贡献连续记录" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/streak-light.svg" alt="GitHub 贡献连续记录" width="400" />
 </picture>
 </p>
 
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/top-langs-dark.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/top-langs-light.svg" alt="仓库代码语言分布" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/top-langs-light.svg" alt="仓库代码语言分布" width="400" />
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-tokyonight/4-productive-time.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/4-productive-time.svg" alt="提交活跃时段，北京时间 UTC+8" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/4-productive-time.svg" alt="提交活跃时段，北京时间 UTC+8" width="400" />
 </picture>
 </p>
 
@@ -208,11 +224,11 @@ flowchart LR
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-tokyonight/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/1-repos-per-language.svg" alt="不同编程语言的仓库分布" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/1-repos-per-language.svg" alt="不同编程语言的仓库分布" width="400" />
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-tokyonight/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/2-most-commit-language.svg" alt="提交记录对应的语言分布" width="48%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/2-most-commit-language.svg" alt="提交记录对应的语言分布" width="400" />
 </picture>
 </p>
 
@@ -224,7 +240,7 @@ flowchart LR
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-tokyonight/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/3-stats.svg" alt="GitHub 汇总统计" width="60%" />
+<img src="https://raw.githubusercontent.com/qilinbro/qilinbro/main/profile/summary-default/3-stats.svg" alt="GitHub 汇总统计" width="400" />
 </picture>
 </p>
 
@@ -293,6 +309,7 @@ flowchart LR
 <summary><strong>⏱️ WakaTime 公开图表 / Shared charts</strong></summary>
 
 <img src="https://wakatime.com/share/@ec44fecf-e2f0-4f10-b281-af54555dfc52/2f8d95e8-e9d0-4898-838e-23bf6a7707d2.svg" alt="WakaTime 公开语言统计图" width="100%" />
+
 <img src="https://wakatime.com/share/@ec44fecf-e2f0-4f10-b281-af54555dfc52/e87422f7-933b-4283-ba9c-4fedfd4c3fc9.svg" alt="WakaTime 公开编程时长图" width="100%" />
 
 [查看 WakaTime 公开资料](https://wakatime.com/@ec44fecf-e2f0-4f10-b281-af54555dfc52)
@@ -395,15 +412,16 @@ SSH Config   3 hrs 46 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <p align="center">
 <a href="mailto:qilinxie05@gmail.com"><img src="https://img.shields.io/badge/Email-qilinxie05@gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=fff" alt="Email" /></a>
-          <a href="https://qilinbro.github.io/"><img src="https://img.shields.io/badge/Website-qilinbro.github.io-3A2ACD?style=flat-square&logo=githubpages&logoColor=fff" alt="Website" /></a>
-          <a href="https://qm.qq.com/q/PBa9kLBpo6"><img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logo=tencentqq&logoColor=fff" alt="QQ" /></a>
-          <img src="https://img.shields.io/badge/WeChat-kirinbro-07C160?style=flat-square&logo=wechat&logoColor=fff" alt="WeChat" />
-          <a href="https://www.instagram.com/kirenxie/"><img src="https://img.shields.io/badge/Instagram-kirenxie-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram" /></a>
-          <img src="https://img.shields.io/badge/RedNote-42271875144-FF2442?style=flat-square&logo=xiaohongshu&logoColor=fff" alt="RedNote" />
-          <a href="https://www.douyin.com/user/MS4wLjABAAAAljkXghE_MVrQ_LuS8sIMHVW2Ysq53ijNNZAPqfyvF5WY56izdfcCfR3o91V9P5G6?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-35503009597-000000?style=flat-square&logo=tiktok&logoColor=fff" alt="Douyin" /></a>
-          <a href="https://www.youtube.com/@kirenbro"><img src="https://img.shields.io/badge/YouTube-kirenbro-FF0000?style=flat-square&logo=youtube&logoColor=fff" alt="YouTube" /></a>
-          <img src="https://komarev.com/ghpvc/?username=qilinbro&label=Views&style=flat-square" alt="Views" />
+<a href="https://qilinbro.github.io/"><img src="https://img.shields.io/badge/Website-qilinbro.github.io-3A2ACD?style=flat-square&logo=githubpages&logoColor=fff" alt="Website" /></a>
+<a href="https://qm.qq.com/q/PBa9kLBpo6"><img src="https://img.shields.io/badge/QQ-3221565903-98FB98?style=flat-square&logo=tencentqq&logoColor=fff" alt="QQ" /></a>
+<img src="https://img.shields.io/badge/WeChat-kirinbro-07C160?style=flat-square&logo=wechat&logoColor=fff" alt="WeChat" />
+</p>
 
+<p align="center">
+<a href="https://www.instagram.com/kirenxie/"><img src="https://img.shields.io/badge/Instagram-kirenxie-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/RedNote-42271875144-FF2442?style=flat-square&logo=xiaohongshu&logoColor=fff" alt="RedNote" />
+<a href="https://www.douyin.com/user/MS4wLjABAAAAljkXghE_MVrQ_LuS8sIMHVW2Ysq53ijNNZAPqfyvF5WY56izdfcCfR3o91V9P5G6?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-35503009597-000000?style=flat-square&logo=tiktok&logoColor=fff" alt="Douyin" /></a>
+<a href="https://www.youtube.com/@kirenbro"><img src="https://img.shields.io/badge/YouTube-kirenbro-FF0000?style=flat-square&logo=youtube&logoColor=fff" alt="YouTube" /></a>
 </p>
 
 <details>

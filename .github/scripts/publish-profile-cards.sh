@@ -7,6 +7,8 @@ card_group=${2:?Expected card group}
 : "${TARGET_BRANCH:?Expected target branch}"
 
 python3 .github/scripts/validate-profile-cards.py "$source_dir" --group "$card_group"
+python3 .github/scripts/normalize-profile-cards.py "$source_dir" --group "$card_group"
+python3 .github/scripts/validate-profile-cards.py "$source_dir" --group "$card_group"
 card_list=$(python3 .github/scripts/validate-profile-cards.py "$source_dir" --group "$card_group" --list)
 mapfile -t cards <<< "$card_list"
 paths=()

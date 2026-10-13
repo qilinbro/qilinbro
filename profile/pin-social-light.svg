@@ -7,7 +7,7 @@
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
-      >
+       preserveAspectRatio="xMidYMid meet">
         <title id="titleId"></title>
         <desc id="descId"></desc>
         <style>

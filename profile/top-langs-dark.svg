@@ -1,13 +1,13 @@
 
       <svg
-        width="300"
-        height="165"
+        width="340"
+        height="200"
         viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
-      >
+       preserveAspectRatio="xMidYMid meet">
         <title id="titleId"></title>
         <desc id="descId"></desc>
         <style>
