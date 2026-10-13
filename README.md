@@ -48,7 +48,7 @@
 ## 01 / 关于我 · About
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/665e9345-8b67-4806-b735-0361a23538cf" alt="Kirin 的个人插画" width="180" />
+<img src="https://github.com/user-attachments/assets/665e9345-8b67-4806-b735-0361a23538cf" alt="Kirin 的个人插画" width="800" />
 </p>
 
 <h3>🌱 从机械思维，到全栈实践。</h3>
