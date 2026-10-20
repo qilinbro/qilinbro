@@ -126,7 +126,7 @@
 **自主仓库**
 
 - [qilinbro](https://github.com/qilinbro/qilinbro) · Mixed / Notes
-- [ai-companion-screen](https://github.com/qilinbro/ai-companion-screen) · Mixed / Notes
+- [ai-companion-screen](https://github.com/qilinbro/ai-companion-screen) · TypeScript
 - [codex-theme-and-pet](https://github.com/qilinbro/codex-theme-and-pet) · Mixed / Notes
 - [assignment](https://github.com/qilinbro/assignment) · TypeScript
 - [qilinbro.github.io](https://github.com/qilinbro/qilinbro.github.io) · HTML
