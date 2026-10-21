@@ -1,79 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="434" viewBox="0 0 1200 434" role="img" aria-labelledby="title desc">
-<title id="title">Coding time / 编程时间</title><desc id="desc">WakaTime all-time data: 130 hrs 56 mins</desc>
+<title id="title">Coding time / 编程时间</title><desc id="desc">WakaTime all-time data: 131 hrs 15 mins</desc>
 <rect x="1" y="1" width="1198" height="432" rx="16" fill="#f6f8fa" stroke="#d8dee4"/>
 <g font-family="system-ui,-apple-system,Segoe UI,sans-serif">
 <text x="32" y="39" fill="#576574" font-size="16" font-weight="600">CODING TIME  /  编程时间</text>
-<text x="32" y="88" fill="#1f2937" font-size="38" font-weight="700">130 hrs 56 mins</text>
-<text x="32" y="120" fill="#576574" font-size="17" font-weight="400">04 June 2025 - To: 19 October 2026</text>
-<rect x="32.00" y="146" width="256.51" height="14" fill="#3178c6"/>
-<rect x="288.51" y="146" width="173.81" height="14" fill="#d9aa37"/>
-<rect x="462.32" y="146" width="171.88" height="14" fill="#6296bd"/>
-<rect x="634.19" y="146" width="149.95" height="14" fill="#6b8594"/>
-<rect x="784.15" y="146" width="61.00" height="14" fill="#679c50"/>
-<rect x="845.15" y="146" width="57.71" height="14" fill="#8b64bf"/>
-<rect x="902.86" y="146" width="51.23" height="14" fill="#bf6384"/>
-<rect x="954.09" y="146" width="50.78" height="14" fill="#c7a416"/>
-<rect x="1004.87" y="146" width="40.33" height="14" fill="#e34c26"/>
-<rect x="1045.20" y="146" width="32.83" height="14" fill="#7d9873"/>
+<text x="32" y="88" fill="#1f2937" font-size="38" font-weight="700">131 hrs 15 mins</text>
+<text x="32" y="120" fill="#576574" font-size="17" font-weight="400">04 June 2025 - To: 20 October 2026</text>
+<rect x="32.00" y="146" width="257.99" height="14" fill="#3178c6"/>
+<rect x="289.99" y="146" width="173.35" height="14" fill="#d9aa37"/>
+<rect x="463.34" y="146" width="171.54" height="14" fill="#6296bd"/>
+<rect x="634.88" y="146" width="149.61" height="14" fill="#6b8594"/>
+<rect x="784.49" y="146" width="60.89" height="14" fill="#679c50"/>
+<rect x="845.38" y="146" width="57.82" height="14" fill="#8b64bf"/>
+<rect x="903.20" y="146" width="51.12" height="14" fill="#bf6384"/>
+<rect x="954.32" y="146" width="50.78" height="14" fill="#c7a416"/>
+<rect x="1005.10" y="146" width="40.21" height="14" fill="#e34c26"/>
+<rect x="1045.31" y="146" width="32.72" height="14" fill="#7d9873"/>
 <circle cx="37" cy="194" r="5" fill="#3178c6"/>
 <text x="53" y="200" fill="#1f2937" font-size="19" font-weight="600">TypeScript</text>
-<text x="236" y="200" fill="#576574" font-size="16" font-weight="400">29 hrs 33 mins</text>
-<text x="489" y="200" fill="#1f2937" font-size="17" font-weight="400">22.58%</text>
+<text x="236" y="200" fill="#576574" font-size="16" font-weight="400">29 hrs 48 mins</text>
+<text x="489" y="200" fill="#1f2937" font-size="17" font-weight="400">22.71%</text>
 <rect x="53" y="210" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="53" y="210" width="112.00" height="4" rx="2" fill="#3178c6"/>
+<rect x="53" y="210" width="112.64" height="4" rx="2" fill="#3178c6"/>
 <circle cx="37" cy="238" r="5" fill="#d9aa37"/>
 <text x="53" y="244" fill="#1f2937" font-size="19" font-weight="600">Python</text>
 <text x="236" y="244" fill="#576574" font-size="16" font-weight="400">20 hrs 1 min</text>
-<text x="489" y="244" fill="#1f2937" font-size="17" font-weight="400">15.30%</text>
+<text x="489" y="244" fill="#1f2937" font-size="17" font-weight="400">15.26%</text>
 <rect x="53" y="254" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="53" y="254" width="75.89" height="4" rx="2" fill="#d9aa37"/>
+<rect x="53" y="254" width="75.69" height="4" rx="2" fill="#d9aa37"/>
 <circle cx="37" cy="282" r="5" fill="#6296bd"/>
 <text x="53" y="288" fill="#1f2937" font-size="19" font-weight="600">Markdown</text>
-<text x="236" y="288" fill="#576574" font-size="16" font-weight="400">19 hrs 48 mins</text>
-<text x="489" y="288" fill="#1f2937" font-size="17" font-weight="400">15.13%</text>
+<text x="236" y="288" fill="#576574" font-size="16" font-weight="400">19 hrs 49 mins</text>
+<text x="489" y="288" fill="#1f2937" font-size="17" font-weight="400">15.10%</text>
 <rect x="53" y="298" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="53" y="298" width="75.04" height="4" rx="2" fill="#6296bd"/>
+<rect x="53" y="298" width="74.90" height="4" rx="2" fill="#6296bd"/>
 <circle cx="37" cy="326" r="5" fill="#6b8594"/>
 <text x="53" y="332" fill="#1f2937" font-size="19" font-weight="600">Other</text>
 <text x="236" y="332" fill="#576574" font-size="16" font-weight="400">17 hrs 17 mins</text>
-<text x="489" y="332" fill="#1f2937" font-size="17" font-weight="400">13.20%</text>
+<text x="489" y="332" fill="#1f2937" font-size="17" font-weight="400">13.17%</text>
 <rect x="53" y="342" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="53" y="342" width="65.47" height="4" rx="2" fill="#6b8594"/>
+<rect x="53" y="342" width="65.32" height="4" rx="2" fill="#6b8594"/>
 <circle cx="37" cy="370" r="5" fill="#679c50"/>
 <text x="53" y="376" fill="#1f2937" font-size="19" font-weight="600">JSON</text>
 <text x="236" y="376" fill="#576574" font-size="16" font-weight="400">7 hrs 2 mins</text>
-<text x="489" y="376" fill="#1f2937" font-size="17" font-weight="400">5.37%</text>
+<text x="489" y="376" fill="#1f2937" font-size="17" font-weight="400">5.36%</text>
 <rect x="53" y="386" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="53" y="386" width="26.64" height="4" rx="2" fill="#679c50"/>
+<rect x="53" y="386" width="26.59" height="4" rx="2" fill="#679c50"/>
 <circle cx="633" cy="194" r="5" fill="#8b64bf"/>
 <text x="649" y="200" fill="#1f2937" font-size="19" font-weight="600">CSS</text>
-<text x="832" y="200" fill="#576574" font-size="16" font-weight="400">6 hrs 39 mins</text>
-<text x="1085" y="200" fill="#1f2937" font-size="17" font-weight="400">5.08%</text>
+<text x="832" y="200" fill="#576574" font-size="16" font-weight="400">6 hrs 40 mins</text>
+<text x="1085" y="200" fill="#1f2937" font-size="17" font-weight="400">5.09%</text>
 <rect x="649" y="210" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="649" y="210" width="25.20" height="4" rx="2" fill="#8b64bf"/>
+<rect x="649" y="210" width="25.25" height="4" rx="2" fill="#8b64bf"/>
 <circle cx="633" cy="238" r="5" fill="#bf6384"/>
 <text x="649" y="244" fill="#1f2937" font-size="19" font-weight="600">YAML</text>
 <text x="832" y="244" fill="#576574" font-size="16" font-weight="400">5 hrs 54 mins</text>
-<text x="1085" y="244" fill="#1f2937" font-size="17" font-weight="400">4.51%</text>
+<text x="1085" y="244" fill="#1f2937" font-size="17" font-weight="400">4.50%</text>
 <rect x="649" y="254" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="649" y="254" width="22.37" height="4" rx="2" fill="#bf6384"/>
+<rect x="649" y="254" width="22.32" height="4" rx="2" fill="#bf6384"/>
 <circle cx="633" cy="282" r="5" fill="#c7a416"/>
 <text x="649" y="288" fill="#1f2937" font-size="19" font-weight="600">JavaScript</text>
-<text x="832" y="288" fill="#576574" font-size="16" font-weight="400">5 hrs 51 mins</text>
+<text x="832" y="288" fill="#576574" font-size="16" font-weight="400">5 hrs 52 mins</text>
 <text x="1085" y="288" fill="#1f2937" font-size="17" font-weight="400">4.47%</text>
 <rect x="649" y="298" width="496" height="4" rx="2" fill="#e4eaf0"/>
 <rect x="649" y="298" width="22.17" height="4" rx="2" fill="#c7a416"/>
 <circle cx="633" cy="326" r="5" fill="#e34c26"/>
 <text x="649" y="332" fill="#1f2937" font-size="19" font-weight="600">HTML</text>
 <text x="832" y="332" fill="#576574" font-size="16" font-weight="400">4 hrs 39 mins</text>
-<text x="1085" y="332" fill="#1f2937" font-size="17" font-weight="400">3.55%</text>
+<text x="1085" y="332" fill="#1f2937" font-size="17" font-weight="400">3.54%</text>
 <rect x="649" y="342" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="649" y="342" width="17.61" height="4" rx="2" fill="#e34c26"/>
+<rect x="649" y="342" width="17.56" height="4" rx="2" fill="#e34c26"/>
 <circle cx="633" cy="370" r="5" fill="#7d9873"/>
 <text x="649" y="376" fill="#1f2937" font-size="19" font-weight="600">SSH Config</text>
 <text x="832" y="376" fill="#576574" font-size="16" font-weight="400">3 hrs 46 mins</text>
-<text x="1085" y="376" fill="#1f2937" font-size="17" font-weight="400">2.89%</text>
+<text x="1085" y="376" fill="#1f2937" font-size="17" font-weight="400">2.88%</text>
 <rect x="649" y="386" width="496" height="4" rx="2" fill="#e4eaf0"/>
-<rect x="649" y="386" width="14.33" height="4" rx="2" fill="#7d9873"/>
+<rect x="649" y="386" width="14.28" height="4" rx="2" fill="#7d9873"/>
 <text x="32" y="416" fill="#576574" font-size="15" font-weight="400">WakaTime · All time · 原始明细见下方折叠面板</text>
 </g></svg>
