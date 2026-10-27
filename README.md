@@ -146,6 +146,7 @@
 
 - [DouYinSparkFlow](https://github.com/qilinbro/DouYinSparkFlow) · Python — 抖音续火花工具，抖音自动续火花，douyin，支持 GitHub Actions 自动运行（开箱即用的 Workflow 配置）；也可部署至自有服务器，灵活适配个人使用场景
 - [atlasapi](https://github.com/qilinbro/atlasapi) · Go — A unified AI model hub for aggregation &amp; distribution. It supports cross-converting variou…
+- [ccTrader](https://github.com/qilinbro/ccTrader) · Mixed / Notes
 - [PathMind](https://github.com/qilinbro/PathMind) · Python
 - [SynHome](https://github.com/qilinbro/SynHome) · Mixed / Notes — 家居设备的高效控制
 - [gcxl\_2025](https://github.com/qilinbro/gcxl_2025) · Python — 2025中国大学生工程实践与创新能力大赛
@@ -288,12 +289,12 @@ flowchart LR
 
 <!--START_SECTION:activity-->
 
+- `2026-10-27` · Fork 项目 · [ANGJustinl/ccTrader](https://github.com/ANGJustinl/ccTrader)
+- `2026-10-27` · 关注项目 · [ANGJustinl/ccTrader](https://github.com/ANGJustinl/ccTrader)
 - `2026-10-21` · 发布版本 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 - `2026-10-21` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 - `2026-10-20` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 - `2026-10-19` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
-- `2026-10-19` · 创建 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
-- `2026-10-15` · 关注项目 · [songconmaisaix31-design/mcpet](https://github.com/songconmaisaix31-design/mcpet)
 
 <!--END_SECTION:activity-->
 
