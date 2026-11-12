@@ -126,6 +126,7 @@
 **自主仓库**
 
 - [qilinbro](https://github.com/qilinbro/qilinbro) · Mixed / Notes
+- [msg-manager](https://github.com/qilinbro/msg-manager) · Mixed / Notes
 - [ai-companion-screen](https://github.com/qilinbro/ai-companion-screen) · TypeScript
 - [codex-theme-and-pet](https://github.com/qilinbro/codex-theme-and-pet) · Mixed / Notes
 - [assignment](https://github.com/qilinbro/assignment) · TypeScript
@@ -289,12 +290,12 @@ flowchart LR
 
 <!--START_SECTION:activity-->
 
+- `2026-11-12` · 创建 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
 - `2026-10-27` · Fork 项目 · [ANGJustinl/ccTrader](https://github.com/ANGJustinl/ccTrader)
 - `2026-10-27` · 关注项目 · [ANGJustinl/ccTrader](https://github.com/ANGJustinl/ccTrader)
 - `2026-10-21` · 发布版本 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 - `2026-10-21` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 - `2026-10-20` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
-- `2026-10-19` · 更新代码 · [qilinbro/ai-companion-screen](https://github.com/qilinbro/ai-companion-screen)
 
 <!--END_SECTION:activity-->
 
