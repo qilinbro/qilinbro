@@ -9,9 +9,9 @@
 <text x="330" y="115" fill="#58c9b9" font-size="48" font-weight="700">17</text>
 <text x="330" y="151" fill="#c9d1d9" font-size="19" font-weight="400">自主仓库 / Original repos</text>
 <path d="M606 60V156" stroke="#30363d"/>
-<text x="628" y="115" fill="#58c9b9" font-size="48" font-weight="700">5</text>
+<text x="628" y="115" fill="#58c9b9" font-size="48" font-weight="700">6</text>
 <text x="628" y="151" fill="#c9d1d9" font-size="19" font-weight="400">自主仓库获得的 Stars</text>
 <path d="M904 60V156" stroke="#30363d"/>
-<text x="926" y="115" fill="#58c9b9" font-size="48" font-weight="700">5</text>
+<text x="926" y="115" fill="#58c9b9" font-size="48" font-weight="700">6</text>
 <text x="926" y="151" fill="#c9d1d9" font-size="19" font-weight="400">自主项目主要语言</text>
 </g></svg>
