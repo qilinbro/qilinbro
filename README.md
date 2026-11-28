@@ -290,12 +290,12 @@ flowchart LR
 
 <!--START_SECTION:activity-->
 
+- `2026-11-28` · Pull request · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
+- `2026-11-28` · 参与讨论 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
 - `2026-11-21` · 关注项目 · [flying-dragon-ai/super-agent](https://github.com/flying-dragon-ai/super-agent)
 - `2026-11-19` · Pull request · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
 - `2026-11-19` · 参与讨论 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
 - `2026-11-19` · 更新代码 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
-- `2026-11-18` · 更新代码 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
-- `2026-11-17` · 更新代码 · [qilinbro/msg-manager](https://github.com/qilinbro/msg-manager)
 
 <!--END_SECTION:activity-->
 
